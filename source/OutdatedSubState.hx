@@ -21,7 +21,7 @@ class OutdatedSubState extends FightBeatState
        "HEY! You're running an outdated version of the game\nCurrent version is "
        + ver
        + " while the most recent version is"
-       + NGio GAME_VER
+       + itch GAME_VER
        + "! Press Space to go to Github, or ESPACE to ignore this!!",
        32)
 
